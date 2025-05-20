@@ -1,6 +1,6 @@
 Gizlilik Politikası
 Son Güncelleme: [26.04.2025]
-Giriş
+Giriş 
 Luminary uygulamamızı kullandığınız için teşekkür ederiz. Gizliliğiniz bizim için önemlidir. Bu gizlilik politikası, uygulamamızı kullandığınızda toplanan, kullanılan ve paylaşılan bilgiler hakkında sizi bilgilendirmek için hazırlanmıştır.
 Topladığımız Bilgiler
 Otomatik Olarak Toplanan Bilgiler
